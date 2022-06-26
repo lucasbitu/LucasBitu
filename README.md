@@ -8,8 +8,8 @@
 
 ##
 
- <div>
-  <a href="https://github.com/emillyedu">
+<div align="center">
+  <a href="https://github.com/lucasBitu">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LucasBitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitu&layout=compact&langs_count=16&theme=dark"/>
 </div>

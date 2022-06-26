@@ -1,6 +1,6 @@
 ## Olá! Eu Sou Lucas Bitu
 
-### Experiência extra curricular
+### Atividades extra curriculares
 
 - Mebro [ARIA](https://aria.ci.ufpb.br/en/sobre/) (ARtificial Intelligence Applications laboratory).
 
@@ -10,8 +10,8 @@
 
  <div>
   <a href="https://github.com/emillyedu">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LucasBitu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitu&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LucasBitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitu&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>

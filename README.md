@@ -9,15 +9,15 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/LucasBitu">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=LucasBitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBitu&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/lucasbitu">
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=lucasbitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbitu&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
  ##
@@ -29,4 +29,4 @@
 <div>   
   
   
-   ![Snake animation](https://github.com/LucasBitu/LucasBitu/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/lucasbitu/lucasbitu/blob/output/github-contribution-grid-snake.svg)

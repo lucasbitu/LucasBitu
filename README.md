@@ -2,7 +2,7 @@
 
 ### Atividades extra curriculares
 
-- Mebro [ARIA](https://aria.ci.ufpb.br/en/sobre/) (Artificial Intelligence Applications laboratory).
+- Membro [ARIA](https://aria.ci.ufpb.br/en/sobre/) (Artificial Intelligence Applications laboratory).
 
 - Membro <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 

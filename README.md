@@ -2,7 +2,7 @@
 
 ### Atividades extra curriculares
 
-- Membro [ARIA](https://aria.ci.ufpb.br/en/sobre/) (Artificial Intelligence Applications laboratory).
+- Membro [LAVID](http://lavid.ufpb.br/) (Laboratório de Aplicações de Vídeo Digital).
 
 - Membro <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 

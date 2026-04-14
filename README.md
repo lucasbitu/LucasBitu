@@ -1,5 +1,10 @@
 ## Olá! Eu Sou Lucas Bitu 
+
+**`Desenvolvedor FullStack | Mobile | IA`**
+
 ## Bem vindo ao meu perfil GitHub 👋
+
+Sou estudante de Engenharia da Computação da Universidade Federal da Paraíba (UFPB) e resido em João Pessoa. Tenho experiência sólida em desenvolvimento web (Backend e Frontend), criação de aplicativos mobile e Inteligência Artificial. 
 
 ### Atividades extra curriculares
 
@@ -8,12 +13,6 @@
 - Membro <a href="https://github.com/TailUFPB">TAIL<a> (Technology and Artificial Intelligence League).
 
 ##
-
-<div align="center">
-<a href="https://github.com/lucasbitu">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbitu&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasbitu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,9 +23,15 @@
   
  ##
   
- <div> 
-  <a href="https://instagram.com/lucas_bitu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/5588998556036" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucasbitu55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/lucas-bitu-32b39426b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<div>   
+<div style="display: inline_block"><br>
+  <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lucas-FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="lucas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="lucas-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="lucas-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+  
+ ##

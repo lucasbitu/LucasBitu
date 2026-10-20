@@ -4,7 +4,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou estudante de Engenharia da Computação da Universidade Federal da Paraíba (UFPB) e resido em João Pessoa. Tenho experiência sólida em desenvolvimento web (Backend e Frontend), criação de aplicativos mobile e Inteligência Artificial. 
+Engenheiro da Computação pela Universidade Federal da Paraíba (UFPB). Tenho experiência sólida em desenvolvimento web (Backend e Frontend), criação de aplicativos mobile e Inteligência Artificial. 
 
 ### Atividades extra curriculares
 
